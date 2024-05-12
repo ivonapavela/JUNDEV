@@ -1,0 +1,140 @@
+{
+  "workshops": [
+    {
+      "id": "workshop_1",
+      "name": "JuniorDev React JS",
+      "date": "2024-05-15",
+      "lecturer": "Ante Antić",
+      "description": "Krenite na putovanje u svijet web razvoja s našim tečajem JuniorDev React JS. Tijekom 6 tjedana, zaronit ćete duboko u React JS, jednu od najpopularnijih JavaScript biblioteka za izgradnju korisničkih sučelja. Vođeni iskusnim instruktorima, naučit ćete osnove React-a, ovladati njegovim ključnim konceptima i stjecati praktično iskustvo kroz vježbe. Bez obzira jeste li početnik u programiranju ili želite proširiti svoje vještine, ovaj tečaj je vaša ulaznica za stvaranje dinamičnih i interaktivnih web aplikacija.",
+      "duration": "6 tjedana",
+      "difficulty": "Beginner",
+      "theme": "Web Development",
+      "number_of_application": 2,
+      "users": [
+        "ivona@fesb.hr",
+        "marko@fesb.hr"
+      ]
+    },
+    {
+      "id": "workshop_2",
+      "name": "Intermediate React JS",
+      "date": "01.05.2025",
+      "lecturer": "Marko Marić",
+      "description": "Gradite dalje na svojim React vještinama s našim tečajem Intermediate React JS. Ovaj intenzivni tečaj tijekom 8 tjedana pružit će vam dublji uvid u napredne koncepte React-a i omogućiti vam da izgradite složenije web aplikacije. Marko Marić, iskusni React developer i mentor, vodit će vas kroz napredne teme, pružajući vam praktične savjete i tehnike za poboljšanje vašeg razvojnog procesa. Pridružite nam se i podignite svoje React vještine na sljedeću razinu!",
+      "duration": "8 tjedana",
+      "difficulty": "Intermediate",
+      "theme": "Web Development",
+      "number_of_application": 2,
+      "users": [
+        "ivona@fesb.hr",
+        "marko@fesb.hr"
+      ]
+    },
+    {
+      "id": "workshop_3",
+      "name": "Advanced React Patterns",
+      "date": "01.07.2025",
+      "lecturer": "Ana Anić",
+      "description": "Zaronite dublje u svijet React-a s našim tečajem Advanced React Patterns. Tijekom ovog intenzivnog tečaja tijekom 10 tjedana, Ana Anić, stručnjakinja za React i autorica popularnog bloga, će vas voditi kroz napredne obrasce i tehnike za rješavanje složenih problema u React aplikacijama. Kroz praktične primjere i rad u timu, stvorit ćete čvrstu osnovu za razumijevanje i primjenu najboljih praksi u razvoju React aplikacija. Pridružite nam se i postanite majstor React-a!",
+      "duration": "10 tjedana",
+      "difficulty": "Advanced",
+      "theme": "Web Development",
+      "number_of_application": 1,
+      "users": [
+        "ivona@fesb.hr"
+      ]
+    },
+    {
+      "id": "workshop_4",
+      "name": "Full-Stack Web Development",
+      "date": "01.09.2025",
+      "lecturer": "Ivana Ivić",
+      "description": "Ovladajte cijelim spektrom web razvoja s našim tečajem Full-Stack Web Development. Tijekom ovog intenzivnog tečaja tijekom 12 tjedana, naučit ćete kako izgraditi potpune web aplikacije koristeći najnovije tehnologije i najbolje prakse. Ivana Ivić, iskusna full-stack developerica, vodit će vas kroz cijeli proces razvoja aplikacije, od dizajniranja arhitekture do implementacije i testiranja. Pridružite nam se i postanite stručnjak u web razvoju!",
+      "duration": "12 tjedana",
+      "difficulty": "Advanced",
+      "theme": "Full Stack Development",
+      "number_of_application": 1,
+      "users": [
+        "ivona@fesb.hr"
+      ]
+    }
+  ],
+  "lecturers": [
+    {
+      "id": "lecturer_1",
+      "name": "Ante Antić",
+      "biography": "Ante Antić, naš stručnjak za React JS, ima bogato iskustvo u razvoju web aplikacija i poučavanju. Sa strašću prema tehnologiji i predanosti prenošenju znanja, Ante je vodeća figura u našem timu obrazovanja. Svojim jasnim i pristupačnim pristupom, on uspijeva inspirirati i motivirati polaznike tečaja da dosegnu svoj puni potencijal. Njegova stručnost i sposobnost prenošenja kompleksnih koncepata na razumljiv način čine ga omiljenim predavačem među našim studentima.",
+      "theme": "Web Development",
+      "organization": "organization_1"
+    },
+    {
+      "id": "lecturer_2",
+      "name": "Marko Marić",
+      "biography": "Marko Marić, naš iskusni React developer i mentor, donosi obilje znanja i iskustva u naš tim obrazovanja. Svojom stručnošću i strašću za podučavanjem, Marko inspirira polaznike da prevladaju izazove React developmenta i postanu samopouzdani u svom programerskom putovanju. Njegova predanost učenju i podučavanju čini ga dragocjenim članom našeg tima, pružajući podršku i mentorstvo onima koji žele postati vješti React developeri.",
+      "theme": "Web Development",
+      "organization": "organization_2"
+    },
+    {
+      "id": "lecturer_3",
+      "name": "Ana Anić",
+      "biography": "Ana Anić, stručnjakinja za React i autorica popularnog bloga, donosi svoje duboko znanje i iskustvo u naš tim obrazovanja. Kroz godine rada u industriji i edukaciji, Ana je razvila posebno razumijevanje React-a i naprednih tehnika razvoja. Njen pristup učenju kroz primjere iz stvarnog svijeta pomaže polaznicima da shvate kompleksne koncepte i primjene ih u praksi. S Angom, svaki polaznik postaje stručnjak u razvoju React aplikacija.",
+      "theme": "Web Development",
+      "organization": "organization_3"
+    },
+    {
+      "id": "lecturer_4",
+      "name": "Ivana Ivić",
+      "biography": "Ivana Ivić, iskusna full-stack developerica, strastveno dijeli svoje znanje i iskustvo u web razvoju s našim polaznicima. Sa svojim dubokim razumijevanjem cijelog spektra tehnologija, Ivana vodi polaznike kroz složene probleme i izazove u razvoju aplikacija. Njen pristupačan i strukturiran pristup učenju čini je omiljenom među polaznicima, pružajući im alate i vještine potrebne za uspjeh u svijetu web razvoja.",
+      "theme": "Full Stack Development",
+      "organization": "organization_4"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "organization_1",
+      "name": "CodeCraft Academy",
+      "description": "CodeCraft Academy je inovativna edukacijska institucija koja pruža visokokvalitetne tečajeve iz područja web razvoja i programiranja. Naša misija je osnažiti pojedince da postanu stručnjaci u tehnološkom svijetu kroz praktično usmjereno učenje i podršku vrhunskih instruktora. Nudimo dinamično okruženje u kojem polaznici stječu konkretne vještine koje su relevantne i tražene na tržištu rada. Uz napredne tehnologije, strukturirani kurikulum i mentorsku podršku, CodeCraft Academy je vaš partner u postizanju profesionalnog uspjeha u industriji web razvoja.",
+      "workshops": [
+        "workshop_1"
+      ]
+    },
+    {
+      "id": "organization_2",
+      "name": "TechHub Institute",
+      "description": "TechHub Institute je vodeća edukacijska institucija koja nudi tečajeve iz naprednih tehnologija i softverskog razvoja. Naša misija je podržati pojedince u njihovom putovanju prema postizanju vrhunskih tehnoloških vještina kroz strukturirane tečajeve, mentorsku podršku i pristup najnovijim alatima i resursima. S visoko kvalificiranim predavačima i dinamičnim okruženjem učenja, TechHub Institute omogućava polaznicima da ostvare svoje profesionalne ciljeve i izgrade uspješne karijere u tehnološkoj industriji.",
+      "workshops": [
+        "workshop_2"
+      ]
+    },
+    {
+      "id": "organization_3",
+      "name": "WebDev Pro",
+      "description": "WebDev Pro je specijalizirana edukacijska platforma koja nudi napredne tečajeve iz web razvoja i programiranja. Naša misija je pružiti polaznicima najkvalitetniju edukaciju i podršku kako bi postali stručnjaci u web tehnologijama. S našim stručnim predavačima i prilagođenim pristupom učenju, polaznici stječu konkretne vještine koje su ključne za uspjeh u industriji. Uz napredne tehnologije i praktične projekte, WebDev Pro omogućava polaznicima da ostvare svoje profesionalne ambicije i izgrade uspješne karijere u web razvoju.",
+      "workshops": [
+        "workshop_3"
+      ]
+    },
+    {
+      "id": "organization_4",
+      "name": "DevSkills Academy",
+      "description": "DevSkills Academy je premijerna edukacijska institucija koja pruža tečajeve iz naprednih tehnologija i softverskog razvoja. Naša misija je potaknuti i osnažiti pojedince da postanu stručnjaci u svom području kroz praktično usmjereno učenje i podršku vrhunskih instruktora. S našim strukturiranim programima i mentorskom podrškom, polaznici stječu duboko razumijevanje tehnologija i vještine koje su ključne za uspjeh u današnjem konkurentnom tržištu rada. Pridružite nam se i započnite svoje putovanje prema postizanju profesionalnog uspjeha s DevSkills Academy!",
+      "workshops": [
+        "workshop_4"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "ivona@fesb.hr",
+      "password": "hahaha",
+      "admin": true,
+      "id": "a58c"
+    },
+    {
+      "email": "marko@fesb.hr",
+      "password": "hahaha",
+      "admin": false,
+      "id": "2df9"
+    }
+  ]
+}
